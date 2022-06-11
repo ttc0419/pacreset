@@ -1,0 +1,11 @@
+# IDEA
+.idea
+
+# VSCode CMake
+build
+
+# CLion CMake
+cmake-build-*
+
+# MacOS
+.DS_Store
